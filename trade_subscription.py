@@ -4,8 +4,8 @@ from logon import *
 from WebAPI.trade_routing_2_pb2 import *
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 
 def request_trade_subscription(client, msg_id):
     client_msg = ClientMsg()

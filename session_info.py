@@ -4,8 +4,8 @@ from meta import *
 from WebAPI import webapi_client
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 symbol_name = 'ZSE'
 
 

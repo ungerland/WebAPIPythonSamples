@@ -10,8 +10,8 @@ from WebAPI import webapi_client
 
 # the host_name is the stage server url we will connect to in demo environment.
 host_name = 'wss://demoapi.cqg.com:443' 
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 
 def logon(client, user_name, password, 
           client_app_id='WebApiTest', client_version='python-client-test-2-230',

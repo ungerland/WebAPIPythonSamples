@@ -3,8 +3,8 @@ from WebAPI import webapi_client
 from logon import *
 
 host_name = 'wss://demoapi.cqg.com:443' 
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 
 # Request for all accounts this user is authorized to trade/monitor
 # Accounts are grouped by sales series, which are grouped by brokerages

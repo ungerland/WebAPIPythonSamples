@@ -3,10 +3,10 @@ from logon import *
 from WebAPI import webapi_client
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 # the symbol_name is the CQG symbol used in symbol_resolution_request in information_request
-symbol_name = 'ZUC'
+symbol_name = 'EP'
 
 # information_request is one type of client message, and allows for many optional parameters.
 # symbol_resolution_request returns a session-specific server-defined contract id for the requested symbol.

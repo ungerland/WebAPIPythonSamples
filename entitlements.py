@@ -5,9 +5,9 @@ from logon import *
 from meta import *
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
-resolveSymbolName = 'ZUC'
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
+resolveSymbolName = 'EP'
 
 account_id = 16883045 # change the value according to your account_id
 

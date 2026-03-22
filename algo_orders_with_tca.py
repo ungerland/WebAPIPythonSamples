@@ -3,14 +3,14 @@ from WebAPI import webapi_client
 from threading import Thread
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
-resolveSymbolName = 'ZUC'
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
+resolveSymbolName = 'EP'
 
 trade_subscription_id = 1
 request_id = 2 # request id must have unique value per trader per day
 
-account_id = 00000000 # change the value according to your account_id
+account_id = 17898380 # change the value according to your account_id
 contract_id = 1
 cl_order_id = '1' # every order must have unique cl_order_id per trader per day
 order_type = 1 # 1 means MKT 2 means LMT 3 means STP 4 means STL

@@ -6,10 +6,10 @@ from meta import *
 from datetime import datetime
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 
-resolveSymbolName = 'ZUC'
+resolveSymbolName = 'EP'
 
 milliseconds_in_second = 1000
 number_of_seconds = 1

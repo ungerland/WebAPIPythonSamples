@@ -6,10 +6,10 @@ from meta import *
 # from_utc_time, which determines the time_bar_request range
 from datetime import datetime
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
 
-resolveSymbolName = 'ZUC'
+resolveSymbolName = 'EP'
 bars_number = 10
 minutely_index = 8 # hourly_index = 7, daily_index = 6, please find other indexes in protocol
 milliseconds_in_minute = 60000

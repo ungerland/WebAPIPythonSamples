@@ -5,9 +5,9 @@ from meta import *
 import time
 
 host_name = 'wss://demoapi.cqg.com:443'
-user_name = ''
-password = ''
-symbol_name = 'ZUC'
+user_name = 'SilvermineWAPI'
+password = 'bQ9#rI5@aZ2#'
+symbol_name = 'EP'
 
 # We use contract_id instead of symbol to request_real_time
 # LEVEL_NONE = 0                Unsubscribe.
